@@ -1,5 +1,6 @@
 DM Kishi
 ================================================================================
+A directory of select repos.
 
 Configs
 --------------------------------------------------------------------------------
@@ -24,8 +25,8 @@ Projects
 
 Ancient
 --------------------------------------------------------------------------------
-- [Dusk2Dawn](https://github.com/dmkishi/Dusk2Dawn) is an Arduino library that calculates the  sunrise and sunset time.
+- [Dusk2Dawn](https://github.com/dmkishi/Dusk2Dawn) is an Arduino library that calculates sunrise and sunset times.
 - [NOAAWaterLevelCollector](https://github.com/dmkishi/NOAAWaterLevelCollector) is a Ruby script that aggregates public water level data.
 - [Wave Tone](https://github.com/dmkishi/Wave-Tone) is a simple WebAudio toy responsive to device orientation.
-- [Streams](https://github.com/dmkishi/Streams) one or more device orientation data to an external app such as pd or Max.
+- [Streams](https://github.com/dmkishi/Streams) one or more device orientation data to an external app such as [pd](https://puredata.info) or [Max](https://cycling74.com/products/max).
 - [Websocket Benchmark](https://github.com/dmkishi/WebSocket-Benchmark)
