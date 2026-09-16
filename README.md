@@ -1,6 +1,5 @@
 DM Kishi
 ================================================================================
-A directory of select repos.
 
 Configs
 --------------------------------------------------------------------------------
@@ -12,7 +11,7 @@ Configs
 Libraries
 --------------------------------------------------------------------------------
 - [CSS Reset](https://github.com/dmkishi/css-reset)
-- [Shopify Provider](https://github.com/dmkishi/shopify-provider) is a simple wrapper over the Shopify GraphQL Admin API w/ a handy abstraction for bulk operations.
+- [Shopify Provider](https://github.com/dmkishi/shopify-provider) is an NPM library that is a simple wrapper over the Shopify GraphQL Admin API with an abstraction for bulk operations.
 - [int2words](https://github.com/dmkishi/int2words) is an NPM library that converts integers to words. Supports English and Japanese.
 
 Projects
@@ -26,7 +25,7 @@ Projects
 Ancient
 --------------------------------------------------------------------------------
 - [Dusk2Dawn](https://github.com/dmkishi/Dusk2Dawn) is an Arduino library that calculates sunrise and sunset times.
-- [NOAAWaterLevelCollector](https://github.com/dmkishi/NOAAWaterLevelCollector) is a Ruby script that aggregates public water level data.
+- [NOAAWaterLevelCollector](https://github.com/dmkishi/NOAAWaterLevelCollector) is a Ruby script that fetches and aggregates water level data from the [NOAA CO-OPS API](https://tidesandcurrents.noaa.gov/api/).
 - [Wave Tone](https://github.com/dmkishi/Wave-Tone) is a simple WebAudio toy responsive to device orientation.
 - [Streams](https://github.com/dmkishi/Streams) one or more device orientation data to an external app such as [pd](https://puredata.info) or [Max](https://cycling74.com/products/max).
 - [Websocket Benchmark](https://github.com/dmkishi/WebSocket-Benchmark)
