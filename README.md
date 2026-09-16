@@ -6,13 +6,20 @@ Configs
 - [Dotfiles](https://github.com/dmkishi/dotfiles) for Zsh, tmux, Vim, etc.
 - [Markdownlint](https://github.com/dmkishi/markdownlint-cli2.yaml)
 - [oxlint](https://github.com/dmkishi/oxlintrc)
+  [![npm](https://img.shields.io/npm/v/@dmkishi/oxlintrc?logo=npm&label=npm&color=blue)](https://www.npmjs.com/package/@dmkishi/oxlintrc)
 - [Stylelint](https://github.com/dmkishi/dmkishi-stylelint-config)
+  [![npm](https://img.shields.io/npm/v/@dmkishi/stylelint-config?logo=npm&label=npm&color=blue)](https://www.npmjs.com/package/@dmkishi/stylelint-config)
 
 Libraries
 --------------------------------------------------------------------------------
 - [CSS Reset](https://github.com/dmkishi/css-reset)
-- [Shopify Provider](https://github.com/dmkishi/shopify-provider) is an NPM library that is a simple wrapper over the Shopify GraphQL Admin API with an abstraction for bulk operations.
-- [int2words](https://github.com/dmkishi/int2words) is an NPM library that converts integers to words. Supports English and Japanese.
+  [![npm](https://img.shields.io/npm/v/@dmkishi/css-reset?logo=npm&label=npm)](https://www.npmjs.com/package/@dmkishi/css-reset)
+- [Shopify Provider](https://github.com/dmkishi/shopify-provider)
+  [![npm](https://img.shields.io/npm/v/@dmkishi/shopify-provider?logo=npm&label=npm)](https://www.npmjs.com/package/@dmkishi/shopify-provider)
+  is a simple wrapper over the Shopify GraphQL Admin API with an abstraction for bulk operations.
+- [int2words](https://github.com/dmkishi/int2words)
+  [![npm](https://img.shields.io/npm/v/int2words?logo=npm&label=npm)](https://www.npmjs.com/package/int2words)
+  converts integers to words. Supports English and Japanese.
 
 Projects
 -------------------------------------------------------------------------------
