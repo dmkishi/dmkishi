@@ -3,8 +3,11 @@ DM Kishi
 
 Configs
 --------------------------------------------------------------------------------
-- [Dotfiles](https://github.com/dmkishi/dotfiles) for Zsh, tmux, Vim, etc.
+- [Dotfiles](https://github.com/dmkishi/dotfiles)
+  [![version](https://img.shields.io/github/v/tag/dmkishi/dotfiles?logo=github&color=green&label=version)](https://github.com/dmkishi/dotfiles/tags)
+  for Zsh, tmux, Vim, etc.
 - [Markdownlint](https://github.com/dmkishi/markdownlint-cli2.yaml)
+  [![version](https://img.shields.io/github/package-json/v/dmkishi/markdownlint-cli2.yaml?logo=github&color=green)](https://github.com/dmkishi/markdownlint-cli2.yaml/tags)
 - [oxlint](https://github.com/dmkishi/oxlintrc)
   [![npm](https://img.shields.io/npm/v/@dmkishi/oxlintrc?logo=npm&label=npm&color=blue)](https://www.npmjs.com/package/@dmkishi/oxlintrc)
 - [Stylelint](https://github.com/dmkishi/dmkishi-stylelint-config)
