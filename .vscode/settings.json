@@ -1,5 +1,8 @@
 {
   "cSpell.words": [
     "NOAA"
+  ],
+  "markdown.styles": [
+    ".vscode/markdown-preview.css"
   ]
 }

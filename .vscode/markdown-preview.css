@@ -1,0 +1,14 @@
+/*
+ * Mimic the GitHub profile README, which differs from a repository README:
+ * - The <article> gets Primer's `f5` class (14px instead of 16px). Headings,
+ *   list indents, and code are sized in em, so they shrink along with it.
+ * - The surrounding box uses 24px padding instead of 32px.
+ */
+.github-markdown-body {
+  font-size: 14px;
+}
+
+.github-markdown-content {
+  padding: 24px !important;
+  max-width: 880px;
+}
