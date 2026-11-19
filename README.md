@@ -1,7 +1,7 @@
 DM Kishi
 ================================================================================
 
-Configs
+Personal Configs
 --------------------------------------------------------------------------------
 - [Dotfiles](https://github.com/dmkishi/dotfiles)
   [![version](https://img.shields.io/github/v/tag/dmkishi/dotfiles?logo=github&color=green&label=version)](https://github.com/dmkishi/dotfiles/tags)
