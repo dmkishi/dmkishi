@@ -23,6 +23,7 @@ Libraries
 - [int2words](https://github.com/dmkishi/int2words)
   [![npm](https://img.shields.io/npm/v/int2words?logo=npm&label=npm)](https://www.npmjs.com/package/int2words)
   converts integers to words. Supports English and Japanese.
+  - [Demo page](https://dmkishi.github.io/int2words/)
 
 Projects
 -------------------------------------------------------------------------------
