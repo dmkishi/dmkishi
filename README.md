@@ -27,9 +27,9 @@ Libraries
 
 Projects
 -------------------------------------------------------------------------------
-- [Moon Over Oakland](https://github.com/dmkishi/moon-over-oakland) is a Bluesky bot that posts the Moon's principal phases for Oakland, CA.
+- [Moon Over Oakland](https://github.com/dmkishi/moon-over-oakland) posts the Moon's principal phases for Oakland, CA to Bluesky.
   - [Bluesky account](https://bsky.app/profile/moon-over-oakland.bsky.social)
-- [Roaming Holiday Podcast Transcriptions](https://github.com/dmkishi/roaming-holiday-podcast-transcriptions) is a transcription website and builder for the Roaming Holiday podcast.
+- [Roaming Holiday Podcast Transcriptions](https://github.com/dmkishi/roaming-holiday-podcast-transcriptions) transcribes and builds the unofficial transcript site for the "Roaming Holiday" podcast.
   - [Website](https://dmkishi.github.io/roaming-holiday-podcast-transcriptions/)
 - [八千六百四十万ミリ秒 (Eighty-six Million Milliseconds)](https://github.com/dmkishi/eighty-six-million-milliseconds) is a Web-based millisecond clock expressed in Japanese numerals.
   - [Website](https://dmkishi.github.io/eighty-six-million-milliseconds/)
